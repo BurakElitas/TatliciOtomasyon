@@ -1,0 +1,6 @@
+C:\Users\burak\source\repos\Tatli\TatliOtomasyon.ORM\obj\Debug\TatliOtomasyon.ORM.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Tatli\TatliOtomasyon.ORM\bin\Debug\TatliOtomasyon.ORM.dll
+C:\Users\burak\source\repos\Tatli\TatliOtomasyon.ORM\bin\Debug\TatliOtomasyon.ORM.pdb
+C:\Users\burak\source\repos\Tatli\TatliOtomasyon.ORM\obj\Debug\TatliOtomasyon.ORM.dll
+C:\Users\burak\source\repos\Tatli\TatliOtomasyon.ORM\obj\Debug\TatliOtomasyon.ORM.pdb
+C:\Users\burak\source\repos\Tatli\TatliOtomasyon.ORM\obj\Debug\TatliOtomasyon.ORM.csprojAssemblyReference.cache
